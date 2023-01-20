@@ -2,7 +2,7 @@
 
 Topic 1 - Primitive Types, Strings, and Scanner		
 									
-Tutorial 2
+Tutorial 2 - String Play
 
 When we wish to output a value to the console, we use the statement:
 
